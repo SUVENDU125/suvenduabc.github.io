@@ -8,8 +8,26 @@
     width: 100%;
     height: 100%;
   }
-.bss{
+  .bss{
   	width: 100%;
   	height: 250px ! important;
   }
-  
+  .carousel-inner{
+    margin: 0px ! important;
+    box-shadow: 1px 1px 25px 5px skyblue ! important;
+    border-radius: 10px;
+    margin-top: -20px !important;
+}
+.jumbotron{
+  background-color: #13212f;
+}
+#navv{
+  height: 100px ! important;
+  background-color: #13212f;
+}
+#nvnv{
+  margin-top: -40px !important;
+  width: 100%;
+  box-shadow: 1px 1px 35px 3px skyblue ! important;
+  border-radius: 10px;
+}
