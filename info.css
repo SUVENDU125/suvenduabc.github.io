@@ -24,10 +24,14 @@
 #navv{
   height: 100px ! important;
   background-color: #13212f;
+  min-width: 200px;
+  max-width: 100%;
 }
 #nvnv{
   margin-top: -40px !important;
   width: 100%;
   box-shadow: 1px 1px 35px 3px skyblue ! important;
   border-radius: 10px;
+  min-width: 200px;
+  max-width: 100%;
 }
